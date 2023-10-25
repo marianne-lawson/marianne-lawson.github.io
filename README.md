@@ -31,5 +31,5 @@ I am currently a PhD student at Universität Hamburg, working under the supervis
 ## Upcoming talks/conferences
 
 
-## Previous talks/conferences 
+## Previous talks/conferences
 
