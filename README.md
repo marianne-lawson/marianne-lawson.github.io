@@ -1,4 +1,4 @@
-### Marianne Lawson 
+#### Marianne Lawson 
 
 ## PhD Student of Mathematics at Universität Hamburg
 
