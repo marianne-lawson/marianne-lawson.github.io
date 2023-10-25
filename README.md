@@ -21,5 +21,5 @@ ___________
 ## Lecture notes
 
 * Non-Abelian categories
-* Quiver representations and Auslander-Reiten theory
-* Crash-course in Galois theory
+* Quiver representations and Auslander-Reiten theory: [linktext](https://drive.google.com/file/d/1S6P3MAHSqHiy8QH8QbjaJRfSZf56rDep/view?usp=share_link)
+* A crash-course in Galois theory: [linktext](https://drive.google.com/file/d/1UWZH1tKS5KaKfujYCeskVLlXla8BwJ9B/view?usp=share_link)
