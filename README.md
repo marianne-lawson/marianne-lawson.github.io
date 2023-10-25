@@ -13,7 +13,7 @@ ___________
 
 ## About me 
 
-I am currently a PhD student at Universität Hamburg, working under the supervision of Dr. Sven-Ake Wegner. My current priorities are homological algebra in non-Abelian categories, bornological modules, and functional analysis. I also have interest in classical and higher category theory, representation theory, and data sciecne. I achieved my Bachelors degree at Teesside University in 2021, and I attained my Masters degree at the University of Leeds in 2022.
+I am currently a PhD student at Universität Hamburg, working under the supervision of Dr. Sven-Ake Wegner. My current priorities are homological algebra in non-Abelian categories, bornological modules, and functional analysis. I also have interest in classical and higher category theory, representation theory, and data science. I achieved my Bachelors degree at Teesside University in 2021, and I attained my Masters degree at the University of Leeds in 2022.
 
 ## Journal publications and preprints
 
