@@ -15,10 +15,12 @@
 
 
 
-## Publications and preprints
+## Journal publications and preprints
 
 
-[The Category of Silva Spaces is not Integral](https://arxiv.org/pdf/2107.13901.pdf "My paper")
+* M. Lawson and S.-A. Wegner (2023)
+  The category of Silva spaces is not integral
+  Homology, Homotopy and Applications 25, no. 1, 367-374, DOI: 10.4310/HHA.2023.v25.n1.a19
 
 
 
