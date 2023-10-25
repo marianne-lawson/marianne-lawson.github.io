@@ -11,9 +11,7 @@ Germany
 
 
 
-Email: marianne.lawson@uni-hamburg.de  return
-Telephone: +49 40 42838-5114  return
-Office: 118
+<p> Email: marianne.lawson@uni-hamburg.de <br> Telephone: +49 40 42838-5114  <br> Office: 118
 
 
 
