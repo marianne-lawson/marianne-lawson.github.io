@@ -5,7 +5,7 @@
 
 Department of Mathematics <br> University of Hamburg <br> Bundesstraße 55 <br> 20146 Hamburg <br> Germany
 
-![Selfie!](assets/Screenshot 2023-10-25 at 17.18.06.png)
+
 
 Email: marianne dot lawson at uni-hamburg dot de <br> Telephone: +49 40 42838-5114  <br> Office: 118
 
