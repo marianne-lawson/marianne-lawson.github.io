@@ -9,7 +9,7 @@
 
 <p> Email: marianne.lawson@uni-hamburg.de <br> Telephone: +49 40 42838-5114  <br> Office: 118
 
-
+___________
 
 ## Journal publications and preprints
 
@@ -18,3 +18,8 @@
 
 
 
+## Lecture notes
+
+* Non-Abelian categories
+* Quiver representations and Auslander-Reiten theory
+* Crash-course in Galois theory
