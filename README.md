@@ -2,19 +2,19 @@
 
 ## PhD Student of Mathematics at Universität Hamburg
 
-```
+
 Department of Mathematics
 University of Hamburg
 Bundesstraße 55
 20146 Hamburg
 Germany
-```
 
-```
-Email: marianne.lawson@uni-hamburg.de
-Telephone: +49 40 42838-5114
+
+
+Email: marianne.lawson@uni-hamburg.de  return
+Telephone: +49 40 42838-5114  return
 Office: 118
-```
+
 
 
 ## Journal publications and preprints
