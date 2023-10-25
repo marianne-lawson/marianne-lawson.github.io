@@ -3,7 +3,7 @@
 ## PhD Student of Mathematics at Universität Hamburg
 
 
-Department of Mathematics ![Selfie!](./assets/logo.png) <br> University of Hamburg <br> Bundesstraße 55 <br> 20146 Hamburg <br> Germany
+Department of Mathematics ![Selfie!](./assets/Screenshot 2023-10-25 at 17.18.06.png) <br> University of Hamburg <br> Bundesstraße 55 <br> 20146 Hamburg <br> Germany
 
 
 
