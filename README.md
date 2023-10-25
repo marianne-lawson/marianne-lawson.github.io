@@ -1,6 +1,6 @@
 # Marianne Lawson 
 
-## PhD Student of Mathematics at Universität Hamburg
+## PhD Student and research associate in Mathematics at Universität Hamburg
 
 
 Department of Mathematics <br> University of Hamburg <br> Bundesstraße 55 <br> 20146 Hamburg <br> Germany
