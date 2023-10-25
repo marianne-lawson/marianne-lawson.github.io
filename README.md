@@ -25,8 +25,8 @@ I am currently a PhD student at Universität Hamburg, working under the supervis
 ## Lecture notes
 
 * Non-Abelian categories
-* Quiver representations and Auslander-Reiten theory: [link](https://drive.google.com/file/d/1S6P3MAHSqHiy8QH8QbjaJRfSZf56rDep/view?usp=share_link)
-* A crash-course in Galois theory: [link](https://drive.google.com/file/d/1UWZH1tKS5KaKfujYCeskVLlXla8BwJ9B/view?usp=share_link)
+* Quiver representations and Auslander-Reiten theory: [link to pdf](https://drive.google.com/file/d/1YN-vLHjPd50yqjLkMUeYwGYmHAkGATPW/view?usp=share_link)
+* A crash-course in Galois theory: [link to pdf](https://drive.google.com/file/d/1pBR79lZmQp4OlZMj4yXZ4d83iEXCUSn1/view?usp=share_link)
 
 ## Upcoming talks/conferences
 
