@@ -34,4 +34,4 @@ Working under the supervision of Dr. Sven-Ake Wegner, my current research rests 
 
 ## Previous events
 
-* Bremen-Hamburgˆ2-Kiel-Seminar (Organizer) - 14.07.2023, University of Hamburg [poster](https://drive.google.com/file/d/1AHN5aoBOfj8ejWknFAQuTFlsaq2i1pi3/view?usp=share_link)
+* Bremen-Hamburgˆ2-Kiel-Seminar (Organizer) - 14.07.2023, University of Hamburg ([poster](https://drive.google.com/file/d/1AHN5aoBOfj8ejWknFAQuTFlsaq2i1pi3/view?usp=share_link))
