@@ -13,7 +13,7 @@ ___________
 
 ## About me 
 
-I am currently a PhD student at Universität Hamburg, working under the supervision of Dr. Sven-Ake Wegner. My current priorities are homological algebra in non-Abelian categories, bornological modules, and functional analysis. I also have interest in classical and higher category theory, representation theory, and data science. I achieved my Bachelors degree at Teesside University in 2021, and I attained my Masters degree at the University of Leeds in 2022.
+Working under the supervision of Dr. Sven-Ake Wegner, my current research rests in relative homological algebra, methods in non-Abelian categories, one-sided exact structures, and functional analysis. I also have interest in aspects of topology, representation theory, and data science.
 
 ## Journal publications and preprints
 
@@ -24,12 +24,13 @@ I am currently a PhD student at Universität Hamburg, working under the supervis
 
 ## Lecture notes
 
-* Non-Abelian categories
+* Methods in non-Abelian categories: in progress
 * Quiver representations and Auslander-Reiten theory: [link to pdf](https://drive.google.com/file/d/1YN-vLHjPd50yqjLkMUeYwGYmHAkGATPW/view?usp=share_link)
 * A crash-course in Galois theory: [link to pdf](https://drive.google.com/file/d/1pBR79lZmQp4OlZMj4yXZ4d83iEXCUSn1/view?usp=share_link)
 
-## Upcoming talks/conferences
+## Current/upcoming events
 
+* Course in Mathematical Machine Learning - Summer 2025, University of Hamburg
 
-## Previous talks/conferences 
+## Previous events
  
